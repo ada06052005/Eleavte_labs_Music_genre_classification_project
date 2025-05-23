@@ -1,0 +1,19 @@
+The dataset used for this project is the GTZAN Modified Music Genre Classification Dataset, which consists of audio files categorized into 10 different music genres. 
+Each genre folder contains 100 audio samples, each approximately 30 seconds long, in .au format.
+
+Genres included:
+
+Blues
+Classical
+Country
+Disco
+Hip-hop
+Jazz
+Metal
+Pop
+Reggae
+Rock
+
+This dataset was originally sourced from Kaggle and is widely used for music genre classification tasks due to its well-organized structure and sufficient sample size.
+You can download the dataset here:
+https://www.kaggle.com/datasets/gabrielopecs/gtzan-modified-music-genre-classification
